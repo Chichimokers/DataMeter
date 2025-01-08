@@ -1,0 +1,10 @@
+D:\Proyectos\Data Counter\Data Counter\bin\Release\Data Counter.exe.config
+D:\Proyectos\Data Counter\Data Counter\bin\Release\Data Counter.exe
+D:\Proyectos\Data Counter\Data Counter\bin\Release\Data Counter.pdb
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data Counter.csproj.AssemblyReference.cache
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data_Counter.Datametera.resources
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data_Counter.Properties.Resources.resources
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data Counter.csproj.GenerateResource.cache
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data Counter.csproj.CoreCompileInputs.cache
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data Counter.exe
+D:\Proyectos\Data Counter\Data Counter\obj\Release\Data Counter.pdb

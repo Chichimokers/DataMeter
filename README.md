@@ -41,7 +41,8 @@ Este proyecto es una aplicación de Windows Forms que te permite monitorear el t
 
 ## 📷 Captura de Pantalla
 
-_(Aquí podrías añadir una captura de pantalla de la aplicación mostrando la funcionalidad)_
+![Capturas](img.jpg)
+
 
 ---
 

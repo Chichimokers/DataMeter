@@ -8,3 +8,13 @@ D:\Proyectos\Data Counter\Data Counter\obj\Debug\Data Counter.csproj.CoreCompile
 D:\Proyectos\Data Counter\Data Counter\obj\Debug\Data Counter.exe
 D:\Proyectos\Data Counter\Data Counter\obj\Debug\Data Counter.pdb
 D:\Proyectos\Data Counter\Data Counter\obj\Debug\Data_Counter.Datametera.resources
+D:\Proyectos\DataMeter\bin\Debug\Data Counter.exe.config
+D:\Proyectos\DataMeter\bin\Debug\Data Counter.exe
+D:\Proyectos\DataMeter\bin\Debug\Data Counter.pdb
+D:\Proyectos\DataMeter\obj\Debug\Data Counter.csproj.AssemblyReference.cache
+D:\Proyectos\DataMeter\obj\Debug\Data_Counter.Datametera.resources
+D:\Proyectos\DataMeter\obj\Debug\Data_Counter.Properties.Resources.resources
+D:\Proyectos\DataMeter\obj\Debug\Data Counter.csproj.GenerateResource.cache
+D:\Proyectos\DataMeter\obj\Debug\Data Counter.csproj.CoreCompileInputs.cache
+D:\Proyectos\DataMeter\obj\Debug\Data Counter.exe
+D:\Proyectos\DataMeter\obj\Debug\Data Counter.pdb
